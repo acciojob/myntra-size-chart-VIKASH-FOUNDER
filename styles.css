@@ -1,11 +1,11 @@
 /* Your CSS Code here. */
     table {
       border-collapse: collapse;
+	  font-size:12px;
       margin: 40px auto;
       font-family: Arial;
       text-align: justify;
       width: 100%;
-	  font-size:12px;
     }
 
     th, td {
@@ -17,5 +17,6 @@
       background-color:#C0504D;
       color: white;
     }
+
 
    
