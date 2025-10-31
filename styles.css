@@ -2,9 +2,10 @@
     table {
       border-collapse: collapse;
       margin: 40px auto;
-      font-family: Arial, sans-serif;
+      font-family: Arial;
       text-align: justify;
       width: 100%;
+	font-size:12px;
     }
 
     th, td {
