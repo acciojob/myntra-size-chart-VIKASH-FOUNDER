@@ -3,7 +3,7 @@
       border-collapse: collapse;
       margin: 40px auto;
       font-family: Arial, sans-serif;
-      text-align: left;
+      text-align: justify;
       width: 100%;
     }
 
@@ -27,11 +27,4 @@
 
     tbody tr:nth-child(3) {
       background-color: #d9d9d9;
-    }
-
-    caption {
-      caption-side: top;
-      font-weight: bold;
-      margin-bottom: 8px;
-      font-size: 1.1em;
     }
