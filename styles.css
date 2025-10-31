@@ -5,7 +5,7 @@
       font-family: Arial;
       text-align: justify;
       width: 100%;
-	font-size:12px;
+	  font-size:12px;
     }
 
     th, td {
@@ -18,14 +18,4 @@
       color: white;
     }
 
-    tbody tr:nth-child(1) {
-      background-color: #DA9694;
-    }
-
-    tbody tr:nth-child(2) {
-      background-color: #F2DCDB;
-    }
-
-    tbody tr:nth-child(3) {
-      background-color: #D9D9D9;
-    }
+   
