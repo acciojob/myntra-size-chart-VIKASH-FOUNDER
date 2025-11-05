@@ -1,7 +1,7 @@
 /* Your CSS Code here. */
     table {
       border-collapse: collapse;
-	  font-size:11px;
+	  font-size:12px;
       margin: 40px auto;
       font-family: Arial;
       text-align: justify;
@@ -19,7 +19,7 @@
       color: white;
     }
 
-	 td{
+   td{
 	text-align:right;
 	}
 
