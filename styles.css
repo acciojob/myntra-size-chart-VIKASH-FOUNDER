@@ -1,12 +1,11 @@
 /* Your CSS Code here. */
     table {
       border-collapse: collapse;
-	  font-size:12px;
-      margin: 40px auto;
+	  font-size:11px;
+      margin: 30px auto;
       font-family: Arial;
       text-align: justify;
       width: 100%;
-	  padding: 10px;
     }
 
     th, td {
